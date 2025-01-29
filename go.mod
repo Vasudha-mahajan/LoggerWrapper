@@ -1,4 +1,4 @@
-module github.com/your-username/LoggerWrapper
+module github.com/Vasudha-mahajan/LoggerWrapper
 
 go 1.22.5
 
